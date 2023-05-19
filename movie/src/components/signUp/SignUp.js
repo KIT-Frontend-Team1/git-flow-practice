@@ -1,5 +1,5 @@
 const SignUp = () => {
-  return <div>회원가입 창입니다.</div>;
+  return <div>우리집 강아지는 귀엽당</div>;
 };
 
 export default SignUp;
